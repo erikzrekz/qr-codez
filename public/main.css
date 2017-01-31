@@ -1,0 +1,26 @@
+h1, h2, h3, h4, p, a, span, body, .mdl-button {
+	font-family: 'Hind', sans-serif;
+}
+
+body {
+	padding-bottom: 300px;
+	background-color: #fff;
+}
+
+.hidden {
+	display: none;
+}
+
+.shown {
+	display: block;
+}
+
+#qr {
+	padding-bottom: 20px;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
