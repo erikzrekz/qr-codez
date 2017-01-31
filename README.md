@@ -22,3 +22,19 @@ Create QR Codes and put them on IPFS
     "pug": "2.0.0-beta9"
   }
 ```
+
+### Successful Startup Output
+```
+> qr_codez@0.0.1 start /Users/eriks/dev/qr-codez
+> node app.js
+
+ 
+==== IPFS ====
+Version: 0.21.4
+Peer ID: QmVK3wHXWxrVzPS5CpyRdtxWNHRB9QrgmNkB2NisHL8PyE
+Swarm listening on /ip4/127.0.0.1/tcp/4002
+Swarm listening on /ip4/000.000.0.0/tcp/4002
+Swarm listening on /ip4/000.000.00.0/tcp/4002
+Successfully connected to IPFS
+==============
+```
