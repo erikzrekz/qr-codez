@@ -1,13 +1,15 @@
 {
-  "name": "application-name",
+  "name": "qr_codez",
   "version": "0.0.1",
   "private": true,
+  "scripts": {
+      "start": "node app.js"
+    },
   "dependencies": {
-    "body-parser": "^1.0.2",
-    "error-handler": "^0.1.4",
-    "express": "~4.1.1",
-    "jade": "~0.31.2",
-    "method-override": "^1.0.0",
-    "morgan": "^1.0.0"
+    "async": "2.1.4",
+    "body-parser": "1.16.0",
+    "express": "4.1.1",
+    "ipfs": "0.21.4",
+    "pug": "2.0.0-beta9"
   }
 }
